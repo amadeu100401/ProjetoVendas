@@ -1,7 +1,14 @@
+using AutoVendas.Models;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<DataBaseContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("Connection")));
+
+builder.Services.AddMvc();
 
 var app = builder.Build();
 
