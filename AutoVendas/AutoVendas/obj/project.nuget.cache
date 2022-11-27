@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J5neirt1Cwu4VJ97ka3Q9tELyRNgbeR8Q4cdQjEJV0VXU04Ojg5CAVUy9FqeO3AKIp64Tc74rLcTlIgQ7Dkd/w==",
+  "dgSpecHash": "btpc85jeNd9zCtlpc1yDoyLVMbAJn9uCATNyIphq01QuEtaHjDxNt5HfChNfF/VvtDKdji3xo9ooB1tEz5ucKg==",
   "success": true,
   "projectFilePath": "D:\\download\\Curso Oracle\\Faculdade\\PW\\AutoVendas\\AutoVendas\\AutoVendas\\AutoVendas.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\amade\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
