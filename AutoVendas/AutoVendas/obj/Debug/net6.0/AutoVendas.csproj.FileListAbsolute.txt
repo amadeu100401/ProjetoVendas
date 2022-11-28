@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\paulo\Source\Repos\ProjetoVendas\AutoVendas\AutoVendas\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\paulo\Source\Repos\ProjetoVendas\AutoVendas\AutoVendas\bin\Debug\net6.0\appsettings.json
 C:\Users\paulo\Source\Repos\ProjetoVendas\AutoVendas\AutoVendas\bin\Debug\net6.0\AutoVendas.staticwebassets.runtime.json
@@ -262,3 +263,36 @@ C:\Users\paulo\source\repos\ProjetoVendas\AutoVendas\AutoVendas\bin\Debug\net6.0
 C:\Users\paulo\source\repos\ProjetoVendas\AutoVendas\AutoVendas\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\paulo\source\repos\ProjetoVendas\AutoVendas\AutoVendas\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\paulo\source\repos\ProjetoVendas\AutoVendas\AutoVendas\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+=======
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\obj\Debug\net6.0\AutoVendas.csproj.AssemblyReference.cache
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\obj\Debug\net6.0\AutoVendas.GeneratedMSBuildEditorConfig.editorconfig
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\obj\Debug\net6.0\AutoVendas.AssemblyInfoInputs.cache
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\obj\Debug\net6.0\AutoVendas.AssemblyInfo.cs
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\obj\Debug\net6.0\AutoVendas.csproj.CoreCompileInputs.cache
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\obj\Debug\net6.0\AutoVendas.MvcApplicationPartsAssemblyInfo.cache
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\obj\Debug\net6.0\AutoVendas.RazorAssemblyInfo.cache
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\obj\Debug\net6.0\AutoVendas.RazorAssemblyInfo.cs
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\obj\Debug\net6.0\staticwebassets\msbuild.AutoVendas.Microsoft.AspNetCore.StaticWebAssets.props
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\obj\Debug\net6.0\staticwebassets\msbuild.build.AutoVendas.props
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AutoVendas.props
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AutoVendas.props
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\obj\Debug\net6.0\staticwebassets.pack.json
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\obj\Debug\net6.0\staticwebassets.build.json
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\obj\Debug\net6.0\staticwebassets.development.json
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\obj\Debug\net6.0\AutoVendas.dll
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\obj\Debug\net6.0\refint\AutoVendas.dll
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\obj\Debug\net6.0\AutoVendas.pdb
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\bin\Debug\net6.0\appsettings.Development.json
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\bin\Debug\net6.0\appsettings.json
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\bin\Debug\net6.0\AutoVendas.staticwebassets.runtime.json
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\bin\Debug\net6.0\AutoVendas.exe
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\bin\Debug\net6.0\AutoVendas.deps.json
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\bin\Debug\net6.0\AutoVendas.runtimeconfig.json
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\bin\Debug\net6.0\AutoVendas.dll
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\bin\Debug\net6.0\AutoVendas.pdb
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\obj\Debug\net6.0\scopedcss\bundle\AutoVendas.styles.css
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\obj\Debug\net6.0\scopedcss\projectbundle\AutoVendas.bundle.scp.css
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\obj\Debug\net6.0\AutoVendas.genruntimeconfig.cache
+D:\download\Curso Oracle\Faculdade\PW\AutoVendas\AutoVendas\AutoVendas\obj\Debug\net6.0\ref\AutoVendas.dll
+>>>>>>> 4fdcdd1eb7c5bf75ebcb3bc9de09a96deb694861

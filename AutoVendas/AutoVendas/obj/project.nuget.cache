@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "f3sFtTU/nqWujw0pna9IVxkDAR/cnHNxCrH40mxVHd0qZArZ1Gwl2hLY/lrYDnap6ME5+ZEkuL5iMZ0b2I0IHQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\paulo\\source\\repos\\ProjetoVendas\\AutoVendas\\AutoVendas\\AutoVendas.csproj",
@@ -175,5 +176,11 @@
     "C:\\Users\\paulo\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\paulo\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "btpc85jeNd9zCtlpc1yDoyLVMbAJn9uCATNyIphq01QuEtaHjDxNt5HfChNfF/VvtDKdji3xo9ooB1tEz5ucKg==",
+  "success": true,
+  "projectFilePath": "D:\\download\\Curso Oracle\\Faculdade\\PW\\AutoVendas\\AutoVendas\\AutoVendas\\AutoVendas.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> 4fdcdd1eb7c5bf75ebcb3bc9de09a96deb694861
   "logs": []
 }
